@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Nikita Shumakov](https://up.htmlacademy.ru/javascript/10/user/305185).
-
+* Наставник: [Alexandr Bolshov](https://up.htmlacademy.ru/javascript/10/user/179111).
 ---
 
 _Не удаляйте и не обращайте внимание на папки и файлы:_<br>
